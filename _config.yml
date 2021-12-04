@@ -1,9 +1,9 @@
 ﻿# Site settings
-title: Chester Blog
+title:  Blog
 SEOTitle: Chester | 张小皮
 header-img: img/home-bg-o.jpg
-email: zjhChester@gmail.com
-description:  A lovely javaer"
+email: 1454576999@qq.com
+description:  "A lovely javaer"
 keyword: "chester,tfswufe,张小皮 "
 url: "http://zjhChester.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
