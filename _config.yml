@@ -5,9 +5,9 @@ header-img: img/home-bg-o.jpg
 email: 1454576999@qq.com
 description:  "A lovely javaer"
 keyword: "chester,tfswufe,张小皮 "
-url: "http://zjhChester.github.io"          # your host, for absolute URL
+url: "http://rainlei-ing.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/zjhChester/zjhChester.github.io.git" # you code repository
+github_repo: "https://github.com/rainlei-ing/rainlei-ing.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,7 +20,7 @@ sidebar-avatar: /img/IMG_20190725_152317.jpg      # use absolute URL, seeing it'
 RSS: false
 # weibo_username:     
 zhihu_username:     zhang-xiao-pi-99
-github_username:    zjhChester
+github_username:    rainlei-ing
 
 
 
@@ -58,11 +58,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 23d4dbea600633733315                            #生成的clientID
-  clientSecret: cf19db0ed824f8da0b727afe3159203d7551cf8b    #生成的clientSecret
-  repo: zjhChester.github.io    #仓库名称
-  owner: zjhChester    #github用户名
-  admin: zjhChester
+  clientID: 7d2090fc3e9898b62363                            #生成的clientID
+  clientSecret: 181fa2e67ce6af8fa656f88cc468d317dbafc310    #生成的clientSecret
+  repo: rainlei-ing.github.io    #仓库名称
+  owner: rainlei-ing    #github用户名
+  admin: rainlei-ing
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
